@@ -1,5 +1,6 @@
-# loxodon
-Simple UI with file upload with Django
+# Django app with file upload
+Simple UI with file upload with Django.
+Done on Hackathon.
 To run Django you need Python (3) and Django (latest) downloaded.
 When on command line:
 
